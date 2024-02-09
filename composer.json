@@ -1,0 +1,17 @@
+{
+    "name": "leantime/excelexport",
+    "description": "",
+    "version": "1.0",
+    "authors": [
+        {
+            "name": "Jeppe Krogh",
+            "email": "kjej@aarhus.dk"
+        }
+    ],
+    "type": "plugin",
+    "license": "MIT",
+    "homepage": "https://www.google.dk",
+    "require": {
+        "leantime/leantime": "2.3"
+    }
+}
