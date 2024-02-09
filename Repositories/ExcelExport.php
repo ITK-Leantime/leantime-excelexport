@@ -7,7 +7,7 @@ use Leantime\Domain\Timesheets\Repositories\Timesheets as TimesheetRepository;
 
 
 /**
- * motivationalQuotes Repository
+ * ExcelExport Repository
  */
 class ExcelExport {
   private TimesheetRepository $timesheetRepository;
@@ -25,7 +25,7 @@ class ExcelExport {
   }
 
   /**
-   * getAllQuotes
+   * getAllTimesheets from timesheet repository class
    *
    * @return array
    * @throws BindingResolutionException
